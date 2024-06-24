@@ -1,4 +1,4 @@
-//Desenvolvido por Felipe Rudek Schner - M302048 - 19-06-2024
+//Desenvolvido por Felipe Rudek Schner - 19-06-2024
 
 document.addEventListener('DOMContentLoaded', (event) => {
     let dados = [];
